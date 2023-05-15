@@ -3,6 +3,7 @@
   "private": true,
   "author": "Patricio Pellegrini",
   "version": "0.0.0",
+  "homepage": "https://patriciocanals.github.io/cotizador-prestamos-react"
   "type": "module",
   "scripts": {
     "dev": "vite",
